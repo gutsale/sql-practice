@@ -451,7 +451,6 @@ WHERE t2.id IS NULL;
 
 ## Главное правило
 
-## Главное правило
 
 Чтобы эффективно отлаживать SQL-запросы, недостаточно просто знать синтаксис SQL. Нужно понимать:
 - как в целом работает SQL;
@@ -465,6 +464,8 @@ WHERE t2.id IS NULL;
 ## Для подготовки ответа были использованы статьи
 
 [Инструменты и методы для профилирования и отладки медленно выполняющихся SQL-запросов](https://sql-ex.ru/blogs/?/Instrumenty_i_metody_dlJa_profilirovaniJa_i_otladki_medlenno_vypolnJajuwihsJa_SQL-zaprosov.html)
+
 [Оптимизация запросов в MySQL: оптимизация чтений](https://sql-ex.ru/blogs/?/OptimizaciJa_zaprosov_v_MySQL_optimizaciJa_chtenij.html)
+
 [Анатомия плана запроса в PostgreSQL](https://sql-ex.ru/blogs/?/AnatomiJa_plana_zaprosa_v_PostgreSQL.html)
 
