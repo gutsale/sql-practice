@@ -6,6 +6,6 @@
 
 ## Sections
 
-- [SQL-EX SELECT Tasks](./sql-ex-select.md)
-- [SQL-EX DML Tasks](./sql-ex-dml.md)
-- [Effective Mobile Practical SQL Tasks](./effective-mobile-practical-sql.md)
+- [SQL-EX SELECT Задания](./sql-ex-select.md)
+- [SQL-EX DML Задания](./sql-ex-dml.md)
+- [Effective Mobile Practical SQL Задачи](./effective-mobile-practical-sql.md)
