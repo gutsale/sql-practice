@@ -1,4 +1,4 @@
-# SQL-EX DML Tasks
+# SQL-EX DML Задачи
 1. Добавить в таблицу PC следующую модель:
 - code: 20
 - model: 2111
